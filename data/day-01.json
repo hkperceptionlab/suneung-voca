@@ -1,0 +1,130 @@
+[
+{"id":"0001","day":1,"w":"advent","p":"ǽdvent","s":[
+  {"pos":"n","ko":"도래, 출현","syn":["arrival","appearance","emergence"],"ex":"The {advent} of smartphones changed how people get the news.","kr":"스마트폰의 등장은 사람들이 뉴스를 접하는 방식을 바꾸었다."}]},
+{"id":"0002","day":1,"w":"arise","p":"əráiz","s":[
+  {"pos":"v","ko":"생기다, 발생하다","syn":["happen"],"ex":"Problems may {arise} if you ignore the warning signs.","kr":"경고 신호를 무시하면 문제가 생길 수 있다.","g":{"o":["arose","arisen","arising"],"y":"조동사 may 뒤에는 동사원형 → arise"}},
+  {"pos":"v","ko":"일어나다","syn":["get up"],"ex":"When the guests came in, she {arose} from her chair.","kr":"손님들이 들어오자 그녀는 의자에서 일어났다.","g":{"o":["arise","arisen","arising"],"y":"손님들이 들어온(came) 과거 이야기 → 과거형 arose (arise–arose–arisen)"}},
+  {"pos":"v","ko":"(무엇의 결과로) 유발되다","syn":["be provoked"],"ex":"Conflicts often {arise} from simple misunderstandings.","kr":"갈등은 흔히 단순한 오해에서 비롯된다.","g":{"o":["arises","arisen","arising"],"y":"주어 Conflicts가 복수이고 일반적인 사실 → arise"}}],
+ "rel":[["관련","rise","오르다, 상승"]]},
+{"id":"0003","day":1,"w":"arouse","p":"əráuz","s":[
+  {"pos":"v","ko":"불러일으키다","syn":["prompt","induce"],"ex":"The strange noise {aroused} my curiosity.","kr":"그 이상한 소리가 내 호기심을 불러일으켰다.","g":{"o":["arouse","arousing","arousal"],"y":"단수 주어 The strange noise 뒤 동사 자리 → 원형 arouse는 불가, 과거형 aroused. arousal은 명사"}}],
+ "rel":[["파생","arousal","자극, 각성"]]},
+{"id":"0004","day":1,"w":"aquaculture","p":"ǽkwəkʌltʃər","s":[
+  {"pos":"n","ko":"수경 재배, 수산 양식","syn":["fish farming","mariculture","hydroponics"],"ex":"Many coastal villages now depend on {aquaculture} for income.","kr":"많은 해안 마을이 이제 수산 양식으로 소득을 얻는다."}],
+ "rel":[["관련","agriculture","농업"],["관련","forestry","임업"]]},
+{"id":"0005","day":1,"w":"blossom","p":"blɑ́səm","s":[
+  {"pos":"v","ko":"꽃이 피다, 꽃을 피우다","syn":["bloom"],"ex":"The plum trees {blossom} in early spring.","kr":"매화나무는 이른 봄에 꽃을 피운다.","g":{"o":["blossoms","blossoming","to blossom"],"y":"주어 The plum trees가 복수, 일반적인 사실 → blossom"}},
+  {"pos":"v","ko":"발달하여 (~이) 되다","syn":["develop"],"ex":"The shy girl {blossomed} into a confident speaker.","kr":"수줍던 소녀는 자신감 있는 연설가로 성장했다.","g":{"o":["blossom","blossoming","to blossom"],"y":"단수 주어 The shy girl 뒤 동사 자리, 이미 일어난 변화 → 과거형 blossomed"}},
+  {"pos":"n","ko":"꽃","syn":["flower"],"ex":"The garden was full of pink {blossoms}.","kr":"정원은 분홍빛 꽃으로 가득했다."}]},
+{"id":"0006","day":1,"w":"coin","p":"kɔin","s":[
+  {"pos":"v","ko":"(새 단어를) 만들어 내다","syn":["create"],"ex":"In 1999, scientists {coined} a new word to describe the phenomenon.","kr":"1999년에 과학자들은 그 현상을 설명하려고 새 단어를 만들었다.","g":{"o":["coin","coining","coins"],"y":"In 1999라는 과거 시점 → 과거형 coined"}}]},
+{"id":"0007","day":1,"w":"devise","p":"diváiz","s":[
+  {"pos":"v","ko":"창안(고안)하다","syn":["think up","design"],"ex":"Last year, engineers {devised} a cheaper way to purify water.","kr":"작년에 기술자들은 물을 정화하는 더 저렴한 방법을 고안했다.","g":{"o":["devise","devising","device"],"y":"Last year라는 과거 시점 → devised. device(장치)는 명사라 동사 자리에 못 와요"}}],
+ "rel":[["혼동","revise","변경하다, 개정하다"]]},
+{"id":"0008","day":1,"w":"elicit","p":"ilísit","s":[
+  {"pos":"v","ko":"이끌어 내다, 유도하다","syn":["extract","bring out"],"ex":"The teacher’s question {elicited} a lively discussion.","kr":"선생님의 질문은 활발한 토론을 이끌어 냈다.","g":{"o":["elicit","eliciting","illicit"],"y":"단수 주어 The teacher’s question 뒤 동사 자리 → elicited. illicit(불법의)는 형용사"}}],
+ "rel":[["혼동","illicit","불법의"],["혼동","explicit","분명한"],["혼동","implicit","암시된"]]},
+{"id":"0009","day":1,"w":"emerge","p":"imə́ːrdʒ","s":[
+  {"pos":"v","ko":"나오다(모습을 드러내다)","syn":["appear","turn up"],"ex":"The sun {emerged} from behind the clouds.","kr":"해가 구름 뒤에서 모습을 드러냈다.","g":{"o":["emerge","emergence","emerging"],"y":"단수 주어 The sun 뒤 동사 자리 → emerged. emergence는 명사"}},
+  {"pos":"v","ko":"(어려움 등을) 헤쳐 나오다","syn":["get through"],"ex":"The company {emerged} from the crisis stronger than before.","kr":"그 회사는 위기를 헤쳐 나와 전보다 더 강해졌다.","g":{"o":["emerge","emergency","emerging"],"y":"than before(전보다)로 보아 과거 → emerged. emergency(비상사태)는 명사"}}],
+ "rel":[["파생","emergence","출현, 발생"],["혼동","emergency","비상(사태)"]]},
+{"id":"0010","day":1,"w":"erect","p":"irékt","s":[
+  {"pos":"v","ko":"만들다, 설립하다, 세우다","syn":["construct","set up"],"ex":"The town {erected} a statue in honor of the hero.","kr":"그 마을은 영웅을 기리기 위해 동상을 세웠다.","g":{"o":["erect","erection","erecting"],"y":"단수 주어 The town 뒤 동사 자리 → 과거형 erected. erection은 명사"}}],
+ "rel":[["파생","erection","설립"]]},
+{"id":"0011","day":1,"w":"establish","p":"istǽbliʃ","s":[
+  {"pos":"v","ko":"설립(설정)하다","syn":["set up","found"],"ex":"The hospital was {established} in 1950.","kr":"그 병원은 1950년에 설립되었다.","g":{"o":["establish","establishing","establishment"],"y":"was + 과거분사 = 수동태(설립되었다) → established"}},
+  {"pos":"v","ko":"(사실을) 규명하다, 밝히다","syn":["prove"],"ex":"Investigators {established} that the fire was an accident.","kr":"조사관들은 그 화재가 사고였음을 밝혀냈다.","g":{"o":["establish","establishing","establishment"],"y":"뒤의 was로 보아 과거 → established. establishment는 명사"}}],
+ "rel":[["파생","establishment","기관, 시설"]]},
+{"id":"0012","day":1,"w":"fashion","p":"fǽʃən","s":[
+  {"pos":"n","ko":"유행","syn":["trend"],"ex":"Short hair is back in {fashion} this year.","kr":"올해는 짧은 머리가 다시 유행이다."},
+  {"pos":"n","ko":"의류업","syn":["clothes"],"ex":"She hopes to build a career in {fashion}.","kr":"그녀는 의류업계에서 경력을 쌓고 싶어 한다."},
+  {"pos":"n","ko":"유행하는 방식","syn":["method","manner"],"ex":"In those days, it was the {fashion} to write letters by hand.","kr":"그 시절에는 손으로 편지를 쓰는 것이 유행하는 방식이었다."},
+  {"pos":"v","ko":"만들다","syn":["make"],"ex":"He {fashioned} a small boat out of tree bark.","kr":"그는 나무껍질로 작은 배를 만들었다.","g":{"o":["fashion","fashionable","fashioning"],"y":"단수 주어 He 뒤 동사 자리 → 과거형 fashioned. fashionable은 형용사"}}],
+ "rel":[["파생","old-fashioned","구식의"],["파생","fashionable","유행하는"]]},
+{"id":"0013","day":1,"w":"formulate","p":"fɔ́ːrmjulèit","s":[
+  {"pos":"v","ko":"(세심히) 만들어 내다","syn":["devise","plan","develop"],"ex":"The team {formulated} a strategy to reduce waste.","kr":"그 팀은 쓰레기를 줄이기 위한 전략을 세웠다.","g":{"o":["formulate","formula","formulating"],"y":"주어 The team 뒤 동사 자리 → 과거형 formulated. formula(공식)는 명사"}}],
+ "rel":[["파생","formula","공식, 방식"]]},
+{"id":"0014","day":1,"w":"found","p":"faund","s":[
+  {"pos":"v","ko":"(조직, 기관을) 설립하다","syn":["establish","start"],"ex":"The school was {founded} by a group of teachers.","kr":"그 학교는 한 무리의 교사들이 설립했다.","g":{"o":["found","founding","foundation"],"y":"was + 과거분사 = 수동태. 설립하다 found의 과거분사는 founded (find의 과거형 found와 구별!)"}},
+  {"pos":"v","ko":"(~에) ~의 기반을 두다","syn":["base on"],"ex":"The movie is {founded} on a true story.","kr":"그 영화는 실화에 기반을 두고 있다.","g":{"o":["found","founding","foundation"],"y":"be founded on = ~에 기반을 두다 (수동태 표현). found–founded–founded"}}],
+ "rel":[["파생","foundation","토대, 기초"],["혼동","find-found","찾다(과거형 found)"]]},
+{"id":"0015","day":1,"w":"generate","p":"dʒénərèit","s":[
+  {"pos":"v","ko":"발생시키다, 만들다","syn":["produce","incur"],"ex":"Wind turbines {generate} electricity without burning fuel.","kr":"풍력 터빈은 연료를 태우지 않고 전기를 만들어 낸다.","g":{"o":["generates","generation","generator"],"y":"주어 Wind turbines가 복수 → generate. generation, generator는 명사"}}],
+ "rel":[["파생","generation","발생, 생성, 세대"],["파생","generator","발전기"]]},
+{"id":"0016","day":1,"w":"glaciate","p":"gléiʃièit","s":[
+  {"pos":"v","ko":"얼리다, 얼음(빙하)으로 덮다","syn":["freeze","ice over","solidify"],"ex":"Much of northern Europe was once {glaciated}.","kr":"북유럽의 상당 부분은 한때 빙하로 덮여 있었다.","g":{"o":["glaciate","glaciating","glacier"],"y":"was + 과거분사 = 수동태(빙하로 덮였다) → glaciated"}}],
+ "rel":[["반의","melt","녹이다, 녹다"],["반의","thaw","녹다"]]},
+{"id":"0017","day":1,"w":"improvise","p":"ímprəvàiz","s":[
+  {"pos":"v","ko":"(있는 것으로) 처리하다, 만들다","syn":["devise","concoct"],"ex":"With no tent, we {improvised} a shelter from branches last night.","kr":"텐트가 없어서 우리는 어젯밤 나뭇가지로 임시 피난처를 만들었다.","g":{"o":["improvise","improvising","improvisation"],"y":"last night이라는 과거 시점 → improvised. improvisation은 명사"}},
+  {"pos":"v","ko":"(연주, 연설 등을) 즉흥적으로 하다","syn":["wing it"],"ex":"The actor forgot his lines and had to {improvise}.","kr":"그 배우는 대사를 잊어버려서 즉흥 연기를 해야 했다.","g":{"o":["improvised","improvising","improvises"],"y":"had to 뒤에는 동사원형 → improvise"}}]},
+{"id":"0018","day":1,"w":"incubation","p":"ìnkjubéiʃən","s":[
+  {"pos":"n","ko":"배양","syn":["cultivation","hatching","nurturing"],"ex":"The bacteria need a warm place for {incubation}.","kr":"그 박테리아는 배양을 위해 따뜻한 장소가 필요하다.","g":{"o":["incubate","incubator","incubated"],"y":"전치사 for 뒤 명사 자리 → incubation(배양). incubator는 ‘배양기’라는 기계"}}],
+ "rel":[["파생","incubate","배양하다"],["파생","incubator","배양기"],["반의","neglect","방치"],["반의","stagnation","정체"]]},
+{"id":"0019","day":1,"w":"launch","p":"lɔːntʃ","s":[
+  {"pos":"v","ko":"(상품을) 출시(출간)하다","syn":["release","open"],"ex":"The company will {launch} its new phone next month.","kr":"그 회사는 다음 달에 새 휴대폰을 출시할 것이다.","g":{"o":["launches","launched","launching"],"y":"조동사 will 뒤에는 동사원형 → launch"}},
+  {"pos":"v","ko":"설립하다, 시작하다","syn":["found","start"],"ex":"She {launched} her own business at the age of 25.","kr":"그녀는 25살에 자신의 사업을 시작했다.","g":{"o":["launch","launching","to launch"],"y":"단수 주어 She 뒤 동사 자리, 25살 때의 일 → 과거형 launched"}},
+  {"pos":"v","ko":"(배, 우주선 등을) 띄우다, 보내다","syn":["set afloat"],"ex":"The rocket was {launched} into space this morning.","kr":"로켓이 오늘 아침 우주로 발사되었다.","g":{"o":["launch","launching","launches"],"y":"was + 과거분사 = 수동태(발사되었다) → launched"}}]},
+{"id":"0020","day":1,"w":"originate","p":"ərídʒənèit","s":[
+  {"pos":"v","ko":"시작하다, 유래하다","syn":["begin","start"],"ex":"The custom {originated} in ancient China.","kr":"그 관습은 고대 중국에서 유래했다.","g":{"o":["originate","origin","original"],"y":"단수 주어 The custom 뒤 동사 자리 → originated. origin은 명사, original은 형용사"}},
+  {"pos":"v","ko":"발명(고안)하다","syn":["invent"],"ex":"No one knows who first {originated} the recipe.","kr":"그 요리법을 누가 처음 고안했는지는 아무도 모른다.","g":{"o":["originate","origin","originality"],"y":"who가 주어인 동사 자리, 과거의 일 → originated"}}],
+ "rel":[["파생","origin","기원, 근원, 출신"],["파생","original","원래의, 독창적인"]]},
+{"id":"0021","day":1,"w":"outbreak","p":"áutbrèik","s":[
+  {"pos":"n","ko":"(전쟁, 질병 등의) 발생","syn":["burst","eruption"],"ex":"Doctors worked hard to control the {outbreak} of the disease.","kr":"의사들은 그 질병의 발생을 막으려고 애썼다."}]},
+{"id":"0022","day":1,"w":"pioneer","p":"pàiəníər","s":[
+  {"pos":"n","ko":"선구자","syn":["founder"],"ex":"She was a {pioneer} in women’s education.","kr":"그녀는 여성 교육의 선구자였다."},
+  {"pos":"v","ko":"개척하다","syn":["develop","blaze a trail"],"ex":"The lab {pioneered} a new method of treating burns.","kr":"그 연구소는 화상을 치료하는 새로운 방법을 개척했다.","g":{"o":["pioneer","pioneering","to pioneer"],"y":"단수 주어 The lab 뒤 동사 자리 → 과거형 pioneered"}}]},
+{"id":"0023","day":1,"w":"pre-date","p":"prìːdéit","s":[
+  {"pos":"v","ko":"(~보다) 먼저 형성되다","syn":["precede","antedate","forego"],"ex":"These cave paintings {pre-date} the invention of writing.","kr":"이 동굴 벽화들은 문자의 발명보다 먼저 만들어졌다.","g":{"o":["pre-dates","pre-dating","to pre-date"],"y":"주어 These cave paintings가 복수 → pre-date"}}],
+ "rel":[["파생","pre-dated","먼저 형성된"],["반의","follow","따르다"],["반의","succeed","뒤를 잇다"]]},
+{"id":"0024","day":1,"w":"resultant","p":"rizʌ́ltənt","s":[
+  {"pos":"adj","ko":"그 결과로 생긴, 그에 따른","syn":["consequential","resulting","derivative"],"ex":"The storm and the {resultant} power outage lasted two days.","kr":"폭풍과 그로 인한 정전은 이틀 동안 계속되었다.","g":{"o":["result","results","resulted"],"y":"명사 power outage 앞, 꾸며 주는 형용사 자리 → resultant"}}],
+ "rel":[["파생","result","결과"],["반의","unrelated","무관한"],["반의","independent","독립적인"]]},
+{"id":"0025","day":1,"w":"spring","p":"spriŋ","s":[
+  {"pos":"n","ko":"봄","syn":[],"ex":"Cherry blossoms appear every {spring}.","kr":"벚꽃은 매년 봄에 핀다."},
+  {"pos":"n","ko":"탄성","syn":["elasticity"],"ex":"This old sofa has lost its {spring}.","kr":"이 낡은 소파는 탄성을 잃었다."},
+  {"pos":"v","ko":"튀다, 뛰어오르다","syn":["jump"],"ex":"When I opened the door, the cat {sprang} onto the kitchen table.","kr":"내가 문을 열자 고양이가 식탁 위로 뛰어올랐다.","g":{"o":["spring","sprung","springing"],"y":"문을 연(opened) 과거 이야기 → 과거형 sprang (spring–sprang–sprung)"}},
+  {"pos":"v","ko":"갑자기 생겨나다","syn":["appear"],"ex":"New cafés seem to {spring} up on every corner.","kr":"새 카페들이 길모퉁이마다 생겨나는 것 같다.","g":{"o":["sprang","springs","sprung"],"y":"seem to 뒤에는 동사원형 → spring"}}]},
+{"id":"0026","day":1,"w":"sprout","p":"spraut","s":[
+  {"pos":"v","ko":"싹이 나다, 발아하다","syn":["germinate"],"ex":"Beans will {sprout} within a few days if kept moist.","kr":"콩은 촉촉하게 두면 며칠 안에 싹이 튼다.","g":{"o":["sprouts","sprouted","sprouting"],"y":"조동사 will 뒤에는 동사원형 → sprout"}}]},
+{"id":"0027","day":1,"w":"stem from","p":"stém frəm","s":[
+  {"pos":"v","ko":"~에서 생겨나다, 기인하다","syn":["originate in"],"ex":"Her fear of water {stems from} a childhood accident.","kr":"그녀의 물에 대한 두려움은 어린 시절의 사고에서 비롯된다.","g":{"o":["stem from","stemming from","is stemmed from"],"y":"단수 주어 Her fear, 현재 → stems from. stem from은 수동태로 쓰지 않아요"}}],
+ "rel":[["관련","stem","줄기"]]},
+{"id":"0028","day":1,"w":"take place","p":"téik pléis","s":[
+  {"pos":"v","ko":"열리다, 일어나다, 발생하다","syn":["happen","arise"],"ex":"The concert will {take place} in the main hall.","kr":"콘서트는 대강당에서 열릴 것이다.","g":{"o":["takes place","took place","is taken place"],"y":"will 뒤에는 동사원형 → take place. take place는 목적어가 없는 동사라 수동태 불가"}}]},
+{"id":"0029","day":1,"w":"underlie","p":"ʌ̀ndərlái","s":[
+  {"pos":"v","ko":"~의 근본 원인이 되다","syn":["cause","lie behind"],"ex":"Poor sleep often {underlies} problems with concentration.","kr":"수면 부족은 흔히 집중력 문제의 근본 원인이 된다.","g":{"o":["underlie","underlying","underlain"],"y":"단수 주어 Poor sleep, 일반적인 사실 → underlies"}}],
+ "rel":[["관련","lie","눕다, 놓여 있다"]]},
+{"id":"0030","day":1,"w":"weave","p":"wiːv","s":[
+  {"pos":"v","ko":"(옷감 등을) 짜다","syn":["knit"],"ex":"She {weaves} baskets from dried grass.","kr":"그녀는 마른 풀로 바구니를 짠다.","g":{"o":["weave","weaving","woven"],"y":"3인칭 단수 주어 She, 현재 습관 → weaves"}},
+  {"pos":"v","ko":"(이야기 등을) 엮다","syn":["intertwine"],"ex":"The author {wove} three family histories into one novel.","kr":"작가는 세 가족의 역사를 하나의 소설로 엮었다.","g":{"o":["weave","woven","weaving"],"y":"작가가 이미 쓴 소설 → 과거형 wove (weave–wove–woven)"}},
+  {"pos":"n","ko":"(직물의) 무늬, 짜임새","syn":["pattern"],"ex":"This scarf has a loose {weave}.","kr":"이 스카프는 짜임이 성기다."}],
+ "rel":[["파생","weaver","방직공"]]},
+{"id":"0031","day":1,"w":"animate","p":"ǽnəmèit","s":[
+  {"pos":"v","ko":"~에 생명을 불어넣다","syn":["revivify"],"ex":"Her bright smile {animated} the whole room.","kr":"그녀의 밝은 미소가 방 전체에 활기를 불어넣었다.","g":{"o":["animate","animation","animating"],"y":"단수 주어 Her bright smile 뒤 동사 자리 → 과거형 animated"}},
+  {"pos":"adj","ko":"살아 있는, 생물인","syn":["living"],"ex":"Young children often treat their toys as if they were {animate}.","kr":"어린아이들은 종종 장난감을 살아 있는 것처럼 대한다."}],
+ "rel":[["반의","inanimate","무생물의, 죽은"],["파생","animation","생기, 만화"],["파생","animated","활기찬"]]},
+{"id":"0032","day":1,"w":"artificial","p":"ὰːrtəfíʃəl","s":[
+  {"pos":"adj","ko":"인공의","syn":["man-made"],"ex":"The park has a large {artificial} lake.","kr":"그 공원에는 큰 인공 호수가 있다."},
+  {"pos":"adj","ko":"거짓된","syn":["false"],"ex":"His {artificial} smile did not fool anyone.","kr":"그의 거짓된 미소에 아무도 속지 않았다."}]},
+{"id":"0033","day":1,"w":"bring about","p":"bríŋ əbáut","s":[
+  {"pos":"v","ko":"유발하다","syn":["cause"],"ex":"New technology can {bring about} big social changes.","kr":"새로운 기술은 큰 사회적 변화를 가져올 수 있다.","g":{"o":["brings about","brought about","bringing about"],"y":"조동사 can 뒤에는 동사원형 → bring about"}}],
+ "rel":[["관련","bring","가져오다, 가져다주다, 야기하다"],["관련","come about","발생하다"],["관련","go about","착수하다"]]},
+{"id":"0034","day":1,"w":"cause","p":"kɔːz","s":[
+  {"pos":"n","ko":"원인","syn":["reason"],"ex":"Smoking is a major {cause} of lung disease.","kr":"흡연은 폐 질환의 주요 원인이다."},
+  {"pos":"n","ko":"대의명분","syn":["justification"],"ex":"They raised money for a good {cause}.","kr":"그들은 좋은 대의를 위해 돈을 모았다."},
+  {"pos":"v","ko":"야기하다, 초래하다","syn":["bring about"],"ex":"Heavy snow {caused} long delays at the airport.","kr":"폭설로 공항에서 긴 지연이 발생했다.","g":{"o":["cause","causal","casual"],"y":"단수 주어 Heavy snow 뒤 동사 자리 → caused. causal(인과의), casual(격식 없는)은 형용사"}}],
+ "rel":[["파생","causal","인과 관계의"],["파생","causality","인과 관계"],["혼동","casual","격식을 차리지 않는"]]},
+{"id":"0035","day":1,"w":"fruitful","p":"frúːtfəl","s":[
+  {"pos":"adj","ko":"생산적인, 유익한","syn":["productive"],"ex":"We had a {fruitful} meeting and solved several problems.","kr":"우리는 생산적인 회의를 해서 여러 문제를 해결했다.","g":{"o":["fruit","fruitfully","fruits"],"y":"관사 a와 명사 meeting 사이, 형용사 자리 → fruitful"}}]},
+{"id":"0036","day":1,"w":"manufacture","p":"mæ̀njufǽktʃər","s":[
+  {"pos":"v","ko":"제조하다","syn":["produce"],"ex":"This factory {manufactures} bicycle parts.","kr":"이 공장은 자전거 부품을 제조한다.","g":{"o":["manufacture","manufacturer","manufacturing"],"y":"3인칭 단수 주어 This factory, 현재 → manufactures. manufacturer는 ‘제조업자’"}},
+  {"pos":"n","ko":"제조, 생산","syn":["production"],"ex":"Plastic is widely used in the {manufacture} of toys.","kr":"플라스틱은 장난감 제조에 널리 쓰인다.","g":{"o":["manufacturer","manufactures","manufactured"],"y":"the ___ of 사이 명사 자리, 뜻은 ‘제조’ → manufacture. manufacturer는 사람·회사"}}],
+ "rel":[["파생","manufacturer","제조업자"]]},
+{"id":"0037","day":1,"w":"provoke","p":"prəvóuk","s":[
+  {"pos":"v","ko":"유발하다, 야기하다","syn":["induce","spark"],"ex":"His rude comment {provoked} an angry reaction.","kr":"그의 무례한 발언은 분노 섞인 반응을 불러일으켰다.","g":{"o":["provoke","provocative","provoking"],"y":"단수 주어 His rude comment 뒤 동사 자리 → provoked. provocative는 형용사"}}],
+ "rel":[["파생","provocative","도발적인"]]},
+{"id":"0038","day":1,"w":"sculpt","p":"skʌlpt","s":[
+  {"pos":"v","ko":"조각하다","syn":["carve"],"ex":"The artist {sculpted} a horse from marble.","kr":"그 예술가는 대리석으로 말을 조각했다.","g":{"o":["sculpt","sculpture","sculpting"],"y":"단수 주어 The artist 뒤 동사 자리 → 과거형 sculpted. sculpture는 명사"}},
+  {"pos":"v","ko":"(형상을) 만들다, 형태를 이루다","syn":["shape","produce"],"ex":"Wind and rain {sculpted} the cliffs over centuries.","kr":"바람과 비가 수 세기에 걸쳐 절벽의 형태를 만들었다.","g":{"o":["sculpts","sculpture","sculpting"],"y":"주어 Wind and rain이 복수, over centuries(수 세기에 걸쳐) 과거 → sculpted"}}],
+ "rel":[["파생","sculpture","조각상"]]}
+]
